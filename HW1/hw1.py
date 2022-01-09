@@ -9,13 +9,6 @@ import csv
 
 '''
 Assignment #1
-Submission in pairs:
-
-Name: Agathe Benichou
-ID: 345428312
-
-Name: Gal Almog
-ID: 806709
 
 This assignment was written as a script, beginning on line 206.
 '''
